@@ -1,0 +1,21 @@
+# --- Sécurité ---
+.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# --- Données et Graphiques ---
+*.csv
+*.png
+
+# --- OS / IDE ---
+.DS_Store
+.vscode/
+.idea/
+.history/
