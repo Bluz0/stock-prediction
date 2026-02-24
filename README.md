@@ -1,6 +1,6 @@
 # Predire le prix d'une action en bourse - Alpaca & ML
 
-Une application console élégante pour prédire les mouvements de prix des actions (comme NVDA ou ASML) en utilisant l'apprentissage automatique (**Random Forest**) et l'API **Alpaca Markets**.
+Une application console pour prédire les mouvements de prix des actions (comme NVIDIA ou ASML) en utilisant l'apprentissage automatique (**Random Forest**) et l'API **Alpaca Markets**.
 
 ## Fonctionnalités
 - **Récupération en temps réel** : Connexion à l'API Alpaca pour obtenir les données historiques (flux IEX gratuit).
