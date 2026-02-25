@@ -23,8 +23,8 @@ A console application to predict stock price movements (like NVIDIA or ASML) usi
 3. **Create an Alpaca account and put its API_KEY in . env**
     (create a .env in /bourse-prediction)
     ```bash
-    ALPACA_API_KEY=votre_cle_ici
-    ALPACA_SECRET_KEY=votre_secret_ici
+    ALPACA_API_KEY=your_key
+    ALPACA_SECRET_KEY=secrey_key
 
 4. **ENJOY**
     ```bash
